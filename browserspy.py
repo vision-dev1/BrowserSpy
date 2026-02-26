@@ -1,21 +1,4 @@
-
-"""
-BrowserSpy — Main entry point.
-
-CLI tool for extracting and analyzing browser forensic artifacts:
-history, downloads, passwords, cookies, autofill, extensions, bookmarks,
-and search queries from Chrome, Firefox, Edge, and Brave.
-
-Usage:
-    python browserspy.py --help
-    python browserspy.py --browser chrome --all
-    python browserspy.py --browser firefox --history --limit 50
-    python browserspy.py --browser all --all --output html --file report.html
-
-Author: vision-dev1
-GitHub: https://github.com/vision-dev1
-Portfolio: https://visionkc.com.np
-"""
+# Codes By Visionnn
 
 import argparse
 import logging
