@@ -1,4 +1,4 @@
 """
-BrowserSpy parsers package.
-Provides base parser utilities and browser-specific parser classes.
+BrowserSpy modules package.
+Each module extracts a specific browser artifact type.
 """
