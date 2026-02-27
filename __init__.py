@@ -1,4 +1,4 @@
 """
-BrowserSpy modules package.
-Each module extracts a specific browser artifact type.
+BrowserSpy exporters package.
+Provides JSON, HTML, and CSV export functionality.
 """
