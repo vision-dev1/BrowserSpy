@@ -1,3 +1,4 @@
+<div align="center">
 # BrowserSpy
 
 
@@ -8,6 +9,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Author](https://img.shields.io/badge/Author-vision--dev1-purple)
 
+</div>
 ---
 
 ## 📖 Overview
