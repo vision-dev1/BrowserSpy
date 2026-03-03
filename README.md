@@ -200,8 +200,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 **VISION KC**
-- 🐙 [Github](https://github.com/vision-dev1)
-- 🌐 [Portfolio](https://visionkc.com.np)
+- [Github](https://github.com/vision-dev1)
+- [Portfolio](https://visionkc.com.np)
 
 ---
 
