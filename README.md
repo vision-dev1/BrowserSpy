@@ -137,12 +137,6 @@ python browserspy.py --browser chrome --all --suspicious
 
 ---
 
-## 📸 Screenshots
-
-> _See the HTML report for a full dark-themed dashboard._
-
----
-
 ## 🏗 Project Structure
 
 ```
