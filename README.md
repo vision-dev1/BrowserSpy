@@ -199,11 +199,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 ## 👤 Author
-
-**vision-dev1**
-
-- 🐙 GitHub: [github.com/vision-dev1](https://github.com/vision-dev1)
-- 🌐 Portfolio: [visionkc.com.np](https://visionkc.com.np)
+**VISION KC**
+- 🐙 [Github](https://github.com/vision-dev1)
+- 🌐 [Portfolio](https://visionkc.com.np)
 
 ---
 
