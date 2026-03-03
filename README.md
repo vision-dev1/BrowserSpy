@@ -187,6 +187,10 @@ BrowserSpy/
 
 ---
 
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
 ## ⚠️ Legal Disclaimer
 
 > **BrowserSpy is intended for educational and forensic purposes only.**
@@ -207,6 +211,3 @@ BrowserSpy/
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
