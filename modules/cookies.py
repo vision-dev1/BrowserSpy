@@ -1,8 +1,4 @@
-"""
-BrowserSpy — Cookie extractor.
-Supports Chrome/Edge/Brave (Cookies SQLite DB) and Firefox (cookies.sqlite).
-"""
-
+# Codes By Visionnn
 import logging
 from dataclasses import dataclass
 from pathlib import Path
