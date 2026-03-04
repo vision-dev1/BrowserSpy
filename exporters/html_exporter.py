@@ -1,8 +1,4 @@
-"""
-BrowserSpy — HTML report exporter.
-Generates a dark-themed, self-contained HTML report with collapsible sections
-for each artifact type, a summary dashboard, and BrowserSpy branding.
-"""
+# Codes By Visionnn
 
 import json
 import logging
