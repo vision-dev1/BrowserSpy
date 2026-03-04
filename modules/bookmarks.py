@@ -1,8 +1,4 @@
-"""
-BrowserSpy — Bookmarks parser.
-Supports Chrome/Edge/Brave (Bookmarks JSON file) and Firefox (places.sqlite).
-"""
-
+# Codes By Visionnn
 import json
 import logging
 from dataclasses import dataclass
