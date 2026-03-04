@@ -1,9 +1,4 @@
-"""
-BrowserSpy — Search query extractor.
-Parses browsing history URLs to extract past search queries from
-Google, Bing, DuckDuckGo, Yahoo, and other popular search engines.
-"""
-
+# Codes By Visionnn
 import logging
 import re
 from dataclasses import dataclass
