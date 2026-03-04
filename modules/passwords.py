@@ -1,10 +1,4 @@
-"""
-BrowserSpy — Saved passwords extractor.
-Supports:
-  - Chrome/Edge/Brave: AES-GCM decryption (v10/v11) or Windows DPAPI
-  - Firefox: logins.json + key4.db via NSS (or base64 fallback)
-"""
-
+# Codes By Visionnn
 import base64
 import json
 import logging
