@@ -1,8 +1,4 @@
-"""
-BrowserSpy — Autofill / form data extractor.
-Supports Chrome/Edge/Brave (Web Data SQLite DB) and Firefox (formhistory.sqlite).
-"""
-
+# Codes By Visionnn
 import logging
 from dataclasses import dataclass
 from pathlib import Path
