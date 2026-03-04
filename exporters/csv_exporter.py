@@ -1,8 +1,4 @@
-"""
-BrowserSpy — CSV exporter.
-Exports each artifact type to a separate CSV file.
-"""
-
+# Codes By Visionnn
 import csv
 import logging
 from pathlib import Path
