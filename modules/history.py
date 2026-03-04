@@ -1,8 +1,4 @@
-"""
-BrowserSpy — Browsing history extractor.
-Supports Chrome/Edge/Brave (SQLite History DB) and Firefox (places.sqlite).
-"""
-
+# Codes By Visionnn
 import logging
 from dataclasses import dataclass, field
 from pathlib import Path
