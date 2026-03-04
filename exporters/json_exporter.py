@@ -1,8 +1,4 @@
-"""
-BrowserSpy — JSON exporter.
-Serializes all extracted browser artifacts into a pretty-printed JSON report.
-"""
-
+# Codes By Visionnn
 import json
 import logging
 from pathlib import Path
