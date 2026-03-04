@@ -1,8 +1,4 @@
-"""
-BrowserSpy — Browser extension / addon lister.
-Supports Chrome/Edge/Brave (Extensions/ directory) and Firefox (extensions.json).
-"""
-
+# Codes By Visionnn
 import json
 import logging
 from dataclasses import dataclass, field
